@@ -143,10 +143,11 @@ This project was developed as a capstone/thesis system by [Group/Team Name].
 
 | Role | Name |
 |---|---|
-| Lead Programmer | |
-| Documenter | |
-| Documenter | |
-| Adviser | |
+| Project Manager | John Paul Delos Santos |
+| Documenter | James Minuel Celoso |
+| Programmer | Kyle David Crisostomo |
+| Programmer | Roger Junn Rosales |
+| UI/UX | Jaspher Amualla |
 
 ---
 
