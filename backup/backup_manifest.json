@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-06-30T16:53:28.916969",
+    "filename": "backup_cyberclinic_secure_20260630_165328.sql.gz.enc",
+    "file_size": 8675,
+    "sha256": "1045c45e203dfea378c6ceb8eb8d9e79c2c806e79a9e7fe45f54bf342b147ba9",
+    "type": "manual",
+    "database": "cyberclinic_secure",
+    "elapsed_sec": 0.28,
+    "status": "success"
+  }
+]
